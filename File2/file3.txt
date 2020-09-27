@@ -1,0 +1,3 @@
+this is in branch1
+you are working on this branch1
+and suddenly u ahve to work on master
